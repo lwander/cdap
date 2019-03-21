@@ -15,11 +15,11 @@
 Introduction
 ============
 
-CDAP is an integrated, open source application
-development platform for the Hadoop ecosystem that provides developers with data and
-application abstractions to simplify and accelerate application development, address a
-broader range of real-time and batch use cases, and deploy applications into production
-while satisfying enterprise requirements.
+CDAP is an integrated, open source application development platform for the
+Hadoop ecosystem that provides developers with data and application
+abstractions to simplify and accelerate application development, address a
+broader range of real-time and batch use cases, and deploy applications into
+production while satisfying enterprise requirements.
 
 CDAP is a layer of software running on top of Apache Hadoop® platforms such as the
 Cloudera Enterprise Data Hub or the Hortonworks® Data Platform. CDAP provides these
